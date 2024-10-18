@@ -46,5 +46,5 @@ const convertFileToAudio = async (filePath) => {
 };
 
 // Example usage
-const filePath = 'example.txt';  // Replace with your file path (e.g., 'example.pdf')
+const filePath = 'example2.txt';  // Replace with your file path (e.g., 'example.pdf')
 convertFileToAudio(filePath);
